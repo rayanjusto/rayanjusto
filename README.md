@@ -32,6 +32,10 @@ Sistema de gerenciamento de empréstimos de livros.
 
 ---
 
+## Colaboração
+
+O projeto utiliza Git e GitHub para versionamento e colaboração entre desenvolvedores, permitindo controle de alterações, rastreamento de versões e integração entre equipes.
+
 ## Contato
 
 - rayanjusto@gmail.com
