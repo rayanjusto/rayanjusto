@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou Rayan Raj 👋
 
-<!--
-**rayanjusto/rayanjusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação focado em desenvolvimento de software, banco de dados e engenharia de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- SQL
+- Git/GitHub
+- HTML/CSS
+- UML
+- MySQL
+
+---
+
+## Projetos
+
+### 📚 Sistema Biblioteca
+Sistema de gerenciamento de empréstimos de livros.
+
+🔗 https://github.com/rayanjusto/sistema-biblioteca
+
+---
+
+## Objetivos
+
+- Evoluir em desenvolvimento backend
+- Aprimorar arquitetura de software
+- Construir projetos profissionais
+
+---
+
+## Contato
+
+- rayanjusto@gmail.com
+
+- LinkedIn
+- GitHub
