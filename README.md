@@ -40,6 +40,4 @@ O projeto utiliza Git e GitHub para versionamento e colaboração entre desenvol
 
 - rayanjusto@gmail.com
 - https://www.linkedin.com/in/rayan-justo-4a3048344/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMx3tQlKxTeCrHhP0V94yqw%3D%3D
-- GitHub
-## Link do Youtube
-https://youtu.be/LpSQasNPC0o
+- http:// https://github.com/rayanjusto/rayanjusto.git
